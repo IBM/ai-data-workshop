@@ -1,0 +1,169 @@
+INCOME,YRS_AT_CURRENT_ADDRESS,YRS_WITH_CURRENT_EMPLOYER,NUMBER_OF_CARDS,CREDITCARD_DEBT,LOAN_AMOUNT,CREDIT_SCORE,PROPERTY_VALUE,AREA_AVG_PRICE,LOANS,GENDER,EDUCATION,EMPLOYMENT_STATUS,MARITAL_STATUS,APPLIEDONLINE,RESIDENCE,COMMERCIAL_CLIENT,COMM_FRAUD_INV
+45584,2,19,1,1256,4150,717,467780,461656,0,Female,High School or Below,Unemployed,Single,YES,Private Renting,TRUE,FALSE
+45081,14,15,2,713,8430,820,451551,445906,1,Female,Bachelor,Employed,Married,YES,Owner Occupier,TRUE,TRUE
+51561,17,5,2,3010,16630,800,687926,721244,0,Female,College,Unemployed,Single,YES,Public Housing,TRUE,FALSE
+49007,14,18,1,13360,24375,795,659289,679913,0,Male,High School or Below,Medical Leave,Married,YES,Living with parents/guardian,TRUE,FALSE
+45849,13,9,2,364,12210,709,622267,645668,1,Female,Master,Disabled,Divorced,YES,Living with parents/guardian,TRUE,TRUE
+44048,0,6,1,222,10155,708,673391,660653,0,Male,High School or Below,Disabled,Married,YES,Owner Occupier,FALSE,FALSE
+44956,21,21,2,806,8150,672,624882,606484,1,Male,College,Unemployed,Married,YES,Owner Occupier,TRUE,FALSE
+51945,19,0,1,25,7480,680,300621,270040,1,Male,College,Employed,Married,YES,Public Housing,FALSE,FALSE
+45103,21,14,1,2327,5575,405,360412,325367,1,Female,Bachelor,Disabled,Married,YES,Owner Occupier,FALSE,FALSE
+45153,2,13,2,804,8900,530,736417,768945,1,Female,Bachelor,Unemployed,Single,YES,Owner Occupier,TRUE,FALSE
+58785,31,16,2,1111,7415,587,338591,343344,0,Female,College,Unemployed,Single,YES,Private Renting,TRUE,FALSE
+43151,6,9,1,681,7290,656,385095,376005,1,Male,College,Employed,Married,YES,Private Renting,FALSE,FALSE
+43761,10,6,1,1418,11245,612,346510,363063,0,Female,Bachelor,Employed,Married,YES,Owner Occupier,FALSE,FALSE
+44394,20,17,1,2041,10100,680,410101,398827,0,Male,Bachelor,Unemployed,Single,YES,Owner Occupier,TRUE,FALSE
+45970,11,7,1,579,9280,715,740045,748796,0,Male,High School or Below,Unemployed,Married,YES,Owner Occupier,FALSE,FALSE
+43750,13,6,1,988,7060,762,442330,467116,1,Male,College,Employed,Married,YES,Private Renting,FALSE,FALSE
+46645,19,4,1,884,6045,827,612313,583698,0,Male,Bachelor,Employed,Single,YES,Owner Occupier,TRUE,FALSE
+53550,11,23,1,544,7260,709,440955,457509,1,Male,High School or Below,Employed,Married,YES,Public Housing,TRUE,FALSE
+43151,6,9,1,681,7290,832,336997,368491,1,Male,College,Employed,Married,YES,Private Renting,FALSE,FALSE
+45813,10,13,1,59,7385,498,658674,748796,0,Female,High School or Below,Employed,Married,YES,Owner Occupier,FALSE,FALSE
+51383,19,12,2,1119,7955,538,711358,706230,1,Female,Master,Employed,Divorced,YES,Owner Occupier,TRUE,FALSE
+44483,16,15,2,116,7535,803,695798,727011,0,Male,Master,Unemployed,Single,YES,Owner Occupier,TRUE,FALSE
+45217,17,8,2,445,11455,577,746854,765228,1,Female,High School or Below,Unemployed,Single,YES,Owner Occupier,FALSE,FALSE
+48511,21,25,1,793,9550,576,329453,317206,0,Male,Doctor,Employed,Single,YES,Owner Occupier,FALSE,FALSE
+59944,20,11,2,3894,9880,510,346902,768945,0,Male,Bachelor,Employed,Married,NO,Owner Occupier,FALSE,FALSE
+45621,1,19,1,1878,9260,539,635800,643197,0,Male,Bachelor,Medical Leave,Married,NO,Owner Occupier,TRUE,FALSE
+44460,4,16,1,3467,9290,727,617578,621995,1,Female,College,Employed,Single,NO,Owner Occupier,TRUE,FALSE
+45450,15,24,1,4217,8040,415,402071,376238,0,Male,High School or Below,Unemployed,Single,NO,Owner Occupier,FALSE,FALSE
+44705,0,8,1,230,5720,450,347074,308322,0,Male,High School or Below,Unemployed,Single,NO,Owner Occupier,FALSE,FALSE
+44787,9,4,2,982,8175,612,479284,473793,0,Female,Bachelor,Unemployed,Divorced,NO,Owner Occupier,FALSE,FALSE
+43303,2,7,2,866,10220,533,484256,467116,1,Female,Master,Unemployed,Married,NO,Owner Occupier,FALSE,FALSE
+44597,10,12,2,468,8630,568,528517,508857,0,Male,College,Unemployed,Single,NO,Owner Occupier,FALSE,FALSE
+53791,1,15,1,1844,11855,475,395583,457509,1,Female,Bachelor,Employed,Married,NO,Owner Occupier,TRUE,FALSE
+53842,25,13,2,3115,6150,772,312055,467116,0,Male,Bachelor,Employed,Married,NO,Owner Occupier,TRUE,FALSE
+43650,8,12,1,267,7800,437,687080,720297,0,Male,High School or Below,Unemployed,Married,NO,Public Housing,FALSE,FALSE
+53559,7,19,2,2646,10105,812,358664,369935,0,Female,High School or Below,Employed,Married,NO,Owner Occupier,TRUE,FALSE
+55752,5,11,2,2048,6685,739,497359,511640,1,Female,Master,Unemployed,Married,NO,Owner Occupier,TRUE,FALSE
+53115,12,1,2,674,10455,539,538588,528267,0,Female,High School or Below,Employed,Married,NO,Owner Occupier,TRUE,FALSE
+43593,13,0,1,2315,12820,665,755702,753603,0,Female,College,Employed,Divorced,NO,Owner Occupier,FALSE,FALSE
+49789,2,4,2,44,9340,519,305187,341166,0,Male,High School or Below,Employed,Single,NO,Owner Occupier,FALSE,FALSE
+49485,24,10,1,563,4455,668,718984,681251,1,Female,Master,Unemployed,Single,NO,Private Renting,TRUE,FALSE
+59201,12,25,1,12164,14795,646,319165,355239,0,Male,Bachelor,Unemployed,Single,NO,Owner Occupier,TRUE,FALSE
+59036,7,6,1,495,8915,687,601113,572306,1,Male,Bachelor,Unemployed,Married,NO,Owner Occupier,FALSE,FALSE
+54777,26,17,2,2814,10895,790,389808,414804,1,Female,College,Employed,Divorced,NO,Public Housing,TRUE,FALSE
+56470,31,15,2,390,7055,832,669907,704529,0,Male,Bachelor,Unemployed,Married,NO,Private Renting,TRUE,FALSE
+57376,21,27,2,684,9845,430,378244,389429,1,Male,College,Employed,Married,NO,Private Renting,FALSE,FALSE
+45869,21,8,2,71,9240,491,654799,658031,1,Female,Doctor,Employed,Married,NO,Private Renting,FALSE,FALSE
+44271,17,20,1,284,6185,823,740408,681251,1,Male,Bachelor,Employed,Single,NO,Private Renting,FALSE,FALSE
+44230,9,22,2,3106,540,784,620360,582588,0,Male,Bachelor,Unemployed,Single,NO,Owner Occupier,FALSE,FALSE
+53704,21,17,2,490,2825,477,732058,771689,1,Female,High School or Below,Employed,Married,NO,Owner Occupier,TRUE,FALSE
+50445,10,8,1,237,9310,440,327100,467116,1,Female,College,Employed,Divorced,NO,Public Housing,TRUE,FALSE
+50445,10,8,1,237,9310,643,616053,768945,1,Female,Bachelor,Retired,Divorced,NO,Public Housing,TRUE,FALSE
+49600,5,9,2,3366,9065,465,681419,768945,1,Female,High School or Below,Employed,Married,NO,Private Renting,FALSE,FALSE
+44072,5,5,1,1250,10590,653,300525,320680,0,Male,Doctor,Employed,Single,NO,Owner Occupier,TRUE,FALSE
+52887,10,9,2,1339,8560,510,782722,797605,0,Male,College,Employed,Married,NO,Public Housing,FALSE,FALSE
+56470,31,15,2,390,7055,614,686338,649161,0,Female,Doctor,Disabled,Divorced,NO,Private Renting,FALSE,FALSE
+45452,12,24,1,5490,10040,521,523870,560365,1,Female,College,Employed,Married,NO,Owner Occupier,FALSE,FALSE
+57598,25,16,1,2171,5140,513,523550,509031,1,Female,Bachelor,Employed,Divorced,NO,Public Housing,TRUE,FALSE
+45537,22,21,2,2698,8885,811,691853,724816,1,Female,Doctor,Employed,Married,NO,Private Renting,TRUE,FALSE
+44787,9,4,2,982,8175,429,356714,331493,0,Female,High School or Below,Unemployed,Married,NO,Owner Occupier,TRUE,FALSE
+45750,13,13,1,1930,11355,729,775545,778786,1,Female,College,Unemployed,Married,NO,Public Housing,FALSE,FALSE
+46949,0,2,2,1634,9720,609,532411,539132,1,Female,Bachelor,Employed,Married,NO,Public Housing,FALSE,FALSE
+50075,4,18,2,3768,6095,809,468112,473793,0,Female,Bachelor,Medical Leave,Divorced,NO,Private Renting,TRUE,FALSE
+43972,0,13,1,340,7410,446,658050,644117,1,Female,High School or Below,Unemployed,Married,NO,Private Renting,FALSE,FALSE
+44378,9,18,2,306,7445,569,788254,767926,0,Male,High School or Below,Unemployed,Married,NO,Private Renting,FALSE,FALSE
+43707,8,9,1,1131,9365,446,343577,378259,0,Female,Bachelor,Employed,Married,NO,Owner Occupier,FALSE,FALSE
+43633,14,16,1,6100,7330,473,388055,418895,0,Female,College,Medical Leave,Single,NO,Public Housing,FALSE,FALSE
+50199,5,12,1,1230,10070,405,746154,771570,0,Male,Master,Employed,Married,NO,Private Renting,TRUE,FALSE
+57718,25,16,2,1555,6285,679,581824,467116,1,Male,Bachelor,Employed,Married,NO,Owner Occupier,FALSE,FALSE
+48735,12,12,2,1572,8489,604,540059,461656,1,Male,High School or Below,Unemployed,Single,YES,Owner Occupier,TRUE,FALSE
+48736,12,12,2,1571,8487,604,540079,445906,1,Female,Bachelor,Employed,Married,YES,Owner Occupier,TRUE,TRUE
+48741,12,12,2,1564,8470,603,540221,721244,1,Male,College,Unemployed,Single,YES,Living with parents/guardian,TRUE,FALSE
+48742,12,12,2,1564,8468,603,540241,679913,1,Male,High School or Below,Medical Leave,Married,YES,Owner Occupier,TRUE,FALSE
+48744,12,12,2,1561,8461,603,540302,645668,1,Male,Master,Disabled,Divorced,YES,Owner Occupier,TRUE,TRUE
+48745,12,12,2,1560,8458,602,540322,660653,1,Male,High School or Below,Disabled,Married,YES,Public Housing,FALSE,FALSE
+48748,12,12,2,1556,8449,602,540403,606484,1,Male,College,Unemployed,Married,YES,Owner Occupier,TRUE,FALSE
+48750,12,12,2,1553,8441,601,540464,270040,1,Female,College,Employed,Married,YES,Owner Occupier,FALSE,FALSE
+48754,12,12,2,1548,8430,601,540565,325367,1,Female,Bachelor,Disabled,Married,YES,Living with parents/guardian,FALSE,FALSE
+48770,12,12,2,1527,8377,598,541010,768945,1,Male,Bachelor,Unemployed,Single,YES,Public Housing,TRUE,FALSE
+48772,12,12,2,1525,8372,598,541051,343344,1,Male,College,Unemployed,Single,YES,Owner Occupier,TRUE,FALSE
+48775,12,12,2,1520,8360,597,541152,376005,1,Male,College,Employed,Married,YES,Private Renting,FALSE,FALSE
+48785,12,12,2,1508,8329,595,541415,363063,1,Male,Bachelor,Employed,Married,YES,Owner Occupier,FALSE,FALSE
+48792,12,12,2,1499,8308,594,541597,398827,1,Female,Bachelor,Unemployed,Single,YES,Owner Occupier,TRUE,FALSE
+48798,12,12,2,1492,8289,593,541759,748796,1,Male,High School or Below,Unemployed,Married,YES,Private Renting,FALSE,FALSE
+48799,12,12,2,1490,8284,593,541799,467116,1,Female,College,Employed,Married,YES,Public Housing,FALSE,FALSE
+48806,12,12,2,1481,8262,591,541981,583698,1,Male,Bachelor,Employed,Single,YES,Owner Occupier,TRUE,FALSE
+48808,12,12,2,1478,8255,591,542042,457509,1,Male,High School or Below,Employed,Married,YES,Owner Occupier,TRUE,FALSE
+48816,12,12,2,1469,8231,590,542244,368491,1,Female,College,Employed,Married,YES,Owner Occupier,FALSE,FALSE
+48816,12,12,2,1468,8229,589,542265,748796,1,Male,High School or Below,Employed,Married,YES,Living with parents/guardian,FALSE,FALSE
+48819,12,12,2,1464,8219,589,542345,706230,1,Male,Master,Employed,Divorced,YES,Owner Occupier,TRUE,FALSE
+48827,12,12,2,1455,8195,588,542548,727011,1,Male,Master,Unemployed,Single,YES,Owner Occupier,TRUE,FALSE
+48828,12,12,2,1454,8193,587,542568,765228,1,Male,High School or Below,Unemployed,Single,YES,Public Housing,FALSE,FALSE
+48831,12,12,2,1449,8181,587,542669,317206,1,Male,Doctor,Employed,Single,YES,Living with parents/guardian,FALSE,FALSE
+48837,12,12,2,1442,8164,586,542811,768945,1,Male,Bachelor,Employed,Married,NO,Owner Occupier,FALSE,FALSE
+48838,12,12,2,1440,8159,585,542851,643197,1,Female,Bachelor,Medical Leave,Married,NO,Private Renting,TRUE,FALSE
+48840,12,12,2,1437,8152,585,542912,621995,1,Female,College,Employed,Single,NO,Private Renting,TRUE,FALSE
+48843,12,12,2,1433,8143,585,542993,376238,1,Female,High School or Below,Unemployed,Single,NO,Private Renting,FALSE,FALSE
+48846,12,12,2,1430,8133,584,543074,308322,1,Male,High School or Below,Unemployed,Single,NO,Private Renting,FALSE,FALSE
+48855,12,12,2,1419,8107,583,543296,473793,1,Female,Bachelor,Unemployed,Divorced,NO,Private Renting,FALSE,FALSE
+48861,12,12,2,1411,8088,581,543458,467116,1,Female,Master,Unemployed,Married,NO,Living with parents/guardian,FALSE,FALSE
+48862,12,12,2,1410,8083,581,543499,508857,1,Female,College,Unemployed,Single,NO,Owner Occupier,FALSE,FALSE
+48878,12,12,2,1389,8033,578,543924,457509,1,Female,Bachelor,Employed,Married,NO,Owner Occupier,TRUE,FALSE
+48885,12,12,2,1380,8009,577,544126,467116,1,Female,Bachelor,Employed,Married,NO,Private Renting,TRUE,FALSE
+48889,12,12,2,1375,7997,576,544227,720297,1,Female,High School or Below,Unemployed,Married,NO,Owner Occupier,FALSE,FALSE
+48890,12,12,2,1374,7995,576,544247,369935,1,Female,High School or Below,Employed,Married,NO,Owner Occupier,TRUE,FALSE
+48892,12,12,2,1371,7987,576,544308,511640,1,Male,Master,Unemployed,Married,NO,Private Renting,TRUE,FALSE
+48893,12,12,2,1369,7983,575,544348,528267,1,Female,High School or Below,Employed,Married,NO,Public Housing,TRUE,FALSE
+48903,12,12,2,1357,7952,574,544611,753603,1,Female,College,Employed,Divorced,NO,Owner Occupier,FALSE,FALSE
+48910,12,12,2,1348,7930,573,544794,341166,1,Male,High School or Below,Employed,Single,NO,Private Renting,FALSE,FALSE
+48917,12,12,2,1340,7909,571,544976,681251,1,Female,Master,Unemployed,Single,NO,Sheltered,TRUE,FALSE
+48918,12,12,2,1338,7904,571,545016,355239,1,Male,Bachelor,Unemployed,Single,NO,Private Renting,TRUE,FALSE
+48921,12,12,2,1334,7894,570,545097,572306,1,Female,Bachelor,Unemployed,Married,NO,Private Renting,FALSE,FALSE
+48931,12,12,2,1322,7863,569,545360,414804,1,Male,College,Employed,Divorced,NO,Public Housing,TRUE,FALSE
+48933,12,12,2,1319,7856,568,545421,704529,1,Male,Bachelor,Unemployed,Married,NO,Private Renting,TRUE,FALSE
+48938,12,12,2,1313,7842,567,545542,389429,1,Female,College,Employed,Married,NO,Private Renting,FALSE,FALSE
+48939,12,12,2,1311,7837,567,545583,658031,1,Female,Doctor,Employed,Married,NO,Private Renting,FALSE,FALSE
+48940,12,12,2,1310,7834,567,545603,681251,1,Female,Bachelor,Employed,Single,NO,Living with parents/guardian,FALSE,FALSE
+48947,12,12,2,1301,7811,566,545805,582588,1,Male,Bachelor,Unemployed,Single,NO,Owner Occupier,FALSE,FALSE
+48950,12,12,2,1297,7801,565,545886,771689,1,Male,High School or Below,Employed,Married,NO,Owner Occupier,TRUE,FALSE
+48963,12,12,2,1280,7760,563,546230,467116,1,Female,College,Employed,Divorced,NO,Private Renting,TRUE,FALSE
+48969,12,12,2,1273,7741,562,546392,768945,1,Male,Bachelor,Retired,Divorced,NO,Owner Occupier,TRUE,FALSE
+48976,11,12,2,1264,7720,561,546574,768945,1,Female,High School or Below,Employed,Married,NO,Public Housing,FALSE,FALSE
+48982,11,12,2,1256,7698,559,546756,320680,1,Male,Doctor,Employed,Single,NO,Public Housing,TRUE,FALSE
+48987,11,12,2,1250,7684,559,546878,797605,1,Female,College,Employed,Married,NO,Owner Occupier,FALSE,FALSE
+48994,11,12,2,1241,7662,557,547060,649161,1,Female,Doctor,Disabled,Divorced,NO,Private Renting,FALSE,FALSE
+48995,11,12,2,1239,7658,557,547100,560365,1,Female,College,Employed,Married,NO,Owner Occupier,FALSE,FALSE
+48997,11,12,2,1237,7653,557,547141,509031,1,Female,Bachelor,Employed,Divorced,NO,Public Housing,TRUE,FALSE
+48998,11,12,2,1236,7648,557,547181,724816,1,Male,Doctor,Employed,Married,NO,Private Renting,TRUE,FALSE
+49000,11,12,2,1234,7643,556,547221,331493,1,Male,High School or Below,Unemployed,Married,NO,Owner Occupier,TRUE,FALSE
+49003,11,12,2,1229,7631,556,547323,778786,1,Male,College,Unemployed,Married,NO,Public Housing,FALSE,FALSE
+49009,11,12,2,1222,7615,555,547464,539132,1,Female,Bachelor,Employed,Married,NO,Public Housing,FALSE,FALSE
+49011,11,12,2,1219,7607,554,547525,473793,1,Male,Bachelor,Medical Leave,Divorced,NO,Private Renting,TRUE,FALSE
+49030,11,12,2,1194,7545,551,548051,644117,1,Male,High School or Below,Unemployed,Married,NO,Private Renting,FALSE,FALSE
+49032,11,12,2,1193,7540,550,548091,767926,1,Female,High School or Below,Unemployed,Married,NO,Private Renting,FALSE,FALSE
+49039,11,12,2,1183,7517,549,548294,378259,1,Male,Bachelor,Employed,Married,NO,Owner Occupier,FALSE,FALSE
+49044,11,12,2,1177,7502,548,548415,418895,1,Male,College,Medical Leave,Single,NO,Public Housing,FALSE,FALSE
+49045,11,12,2,1175,7497,548,548456,771570,1,Female,Master,Employed,Married,NO,Private Renting,TRUE,FALSE
+49048,11,12,2,1172,7490,548,548516,467116,1,Male,Bachelor,Employed,Married,NO,Owner Occupier,FALSE,FALSE
+49048,11,12,2,1171,7488,547,548537,461656,1,Female,High School or Below,Unemployed,Single,YES,Owner Occupier,TRUE,FALSE
+49049,11,12,2,1171,7485,547,548557,445906,1,Female,Bachelor,Employed,Married,YES,Owner Occupier,TRUE,TRUE
+49054,11,12,2,1164,7469,546,548698,721244,1,Male,College,Unemployed,Single,YES,Living with parents/guardian,TRUE,FALSE
+49055,11,12,2,1163,7466,546,548719,679913,1,Male,High School or Below,Medical Leave,Married,YES,Owner Occupier,TRUE,FALSE
+49057,11,12,2,1160,7459,546,548779,645668,1,Male,Master,Disabled,Divorced,YES,Owner Occupier,TRUE,TRUE
+49058,11,12,2,1159,7457,546,548800,660653,1,Female,High School or Below,Disabled,Married,YES,Public Housing,FALSE,FALSE
+49061,11,12,2,1155,7447,545,548881,606484,1,Female,College,Unemployed,Married,YES,Owner Occupier,TRUE,FALSE
+49063,11,12,2,1152,7440,545,548941,270040,1,Male,College,Employed,Married,YES,Owner Occupier,FALSE,FALSE
+49067,11,12,2,1148,7428,544,549042,325367,1,Male,Bachelor,Disabled,Married,YES,Living with parents/guardian,FALSE,FALSE
+49083,11,12,2,1127,7376,541,549488,768945,1,Male,Bachelor,Unemployed,Single,YES,Public Housing,TRUE,FALSE
+49085,11,12,2,1125,7371,541,549528,343344,1,Female,College,Unemployed,Single,YES,Owner Occupier,TRUE,FALSE
+49089,11,12,2,1120,7359,540,549629,376005,1,Male,College,Employed,Married,YES,Private Renting,FALSE,FALSE
+49157,11,12,2,1033,7141,528,551470,376238,1,Male,High School or Below,Unemployed,Single,NO,Private Renting,FALSE,FALSE
+49098,11,12,2,1107,7328,538,549892,363063,1,Male,Bachelor,Employed,Married,YES,Owner Occupier,FALSE,FALSE
+49105,11,12,2,1099,7306,537,550074,398827,1,Female,Bachelor,Unemployed,Single,YES,Owner Occupier,TRUE,FALSE
+49111,11,12,2,1091,7287,536,550236,748796,1,Female,High School or Below,Unemployed,Married,YES,Private Renting,FALSE,FALSE
+49113,11,12,2,1089,7282,536,550277,467116,1,Female,College,Employed,Married,YES,Public Housing,FALSE,FALSE
+49119,11,12,2,1081,7261,535,550459,583698,1,Male,Bachelor,Employed,Single,YES,Owner Occupier,TRUE,FALSE
+49122,11,12,2,1078,7254,534,550519,457509,1,Female,High School or Below,Employed,Married,YES,Owner Occupier,TRUE,FALSE
+49129,11,12,2,1068,7230,533,550722,368491,1,Female,College,Employed,Married,YES,Owner Occupier,FALSE,FALSE
+49130,11,12,2,1067,7227,533,550742,748796,1,Male,High School or Below,Employed,Married,YES,Living with parents/guardian,FALSE,FALSE
+49133,11,12,2,1063,7218,532,550823,706230,1,Female,Master,Employed,Divorced,YES,Owner Occupier,TRUE,FALSE
+49140,11,12,2,1054,7194,531,551025,727011,1,Female,Master,Unemployed,Single,YES,Owner Occupier,TRUE,FALSE
+49141,11,12,2,1053,7192,531,551045,765228,1,Female,High School or Below,Unemployed,Single,YES,Public Housing,FALSE,FALSE
+49145,11,12,2,1048,7180,530,551147,317206,1,Female,Doctor,Employed,Single,YES,Living with parents/guardian,FALSE,FALSE
+49150,11,12,2,1041,7163,529,551288,768945,1,Male,Bachelor,Employed,Married,NO,Owner Occupier,FALSE,FALSE
+49152,11,12,2,1040,7158,529,551329,643197,1,Male,Bachelor,Medical Leave,Married,NO,Private Renting,TRUE,FALSE
+49154,11,12,2,1037,7151,528,551389,621995,1,Female,College,Employed,Single,NO,Private Renting,TRUE,FALSE
+49160,11,12,2,1029,7132,527,551551,308322,1,Male,High School or Below,Unemployed,Single,NO,Private Renting,FALSE,FALSE
+49168,11,12,2,1019,7105,526,551774,473793,1,Male,Bachelor,Unemployed,Divorced,NO,Private Renting,FALSE,FALSE
