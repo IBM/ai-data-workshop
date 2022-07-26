@@ -8,7 +8,7 @@ Golden Bank is a leading mortgage provider through their network of neighborhood
 ## Exercise: Create AutoAI Experiment
 1. Associate machine learning service with project
     1. From the Cloud Pak for Data navigation menu, choose **Projects > View all projects**.
-    2. Open the **MLOps and trustworthy AI** project.
+    2. Open the **MLOps and Trustworthy AI** project.
     3. From the **Manage** tab, choose **Services & integrations**.
     4. Click **Associate service**.
     5. Select the machine learning service and click **Associate**.

@@ -7,15 +7,18 @@ Golden Bank is a leading mortgage provider through their network of neighborhood
 - The bank wants to run a campaign to offer lower mortgage rates. The bank needs a consolidated view of applicants to identify the highest value customers to target and help to determine the best rates to offer them.
 
 ## Exercise: Prepare Services
-1. Create the required service for the exercise
-    1. From the Cloud Pak for Data navigation menu, choose **Services > Service instances**.
-    2. Use the **Product** drop-down list to determine whether there is an existing Watson Studio service instance.
-    3. If you need to create a Watson Studio service instance, click **Add service**.
-    4. Select **Watson Studio**
-        1. Select **Dallas** as the region
-        2. Select the **Lite** plan
-        3. Click **Create**
-    5. Repeat these steps to verify or provision the following additional services
+1. Create the required services for the exercise
+    1. Log into your IBM Cloud account.
+    2. From the navigation menu at the top left corner, scroll down and choose **Cloud Pak for Data > Services**.
+    3. Click **Launch Cloud Pak for Data**.
+    4. From the Cloud Pak for Data navigation menu, choose **Services > Service instances**.
+    5. Use the **Product** drop-down list to determine whether there is an existing Watson Studio service instance.
+    6. If you need to create a Watson Studio service instance, click **Add service**.
+    7. Select **Watson Studio**
+        1. Select **Dallas** as the region.
+        2. Select the **Lite** plan.
+        3. Click **Create**.
+    8. Repeat these steps to verify or provision the following additional services
         - **Watson Machine Learning**
         - **Watson Knowledge Catalog**
         - **Cloud Object Storage**
@@ -25,10 +28,10 @@ Golden Bank is a leading mortgage provider through their network of neighborhood
 
 ## Exercise: Create Project
 1. Create the sample project for the exercise
-    1. Login to IBM Cloud and access the [MLOps and trustworthy AI guided tutorial sample project](https://dataplatform.cloud.ibm.com/exchange/public/entry/view/48e9f342365736c7bb7a8dfc48e6245e?context=cpdaas) in the gallery
-    2. Click Create project
-    3. Take the default name and select a Cloud Object Storage instance from the list
-    4. Click Create and then **View new project** to verify that the project and assets were created successfully.
+    1. Login to IBM Cloud and access the [MLOps and Trustworthy AI guided tutorial sample project](https://dataplatform.cloud.ibm.com/exchange/public/entry/view/48e9f342365736c7bb7a8dfc48e6245e?context=cpdaas) in the gallery.
+    2. Click **Create project**.
+    3. Take the default name and select a Cloud Object Storage instance from the list.
+    4. Click **Create** and then **View new project** to verify that the project and assets were created successfully.
 2. Verify your project looks like the following image. 
 
     <img src="images/create-project.png" width="700"/>
@@ -36,9 +39,9 @@ Golden Bank is a leading mortgage provider through their network of neighborhood
 ## Exercise: Set up Tracking
 1. Set up tracking for your model in Watson Knowledge Catalog
     1. From the Cloud Pak for Data navigation menu, choose **Catalogs > View all catalogs**. 
-    2. Click **Create Catalog**
+    2. Click **Create Catalog**.
     3. Enter the catalog name as “**Mortgage Approval Catalog**” with no leading or trailing spaces.
-    4. Select a Cloud Object Storage from the list for the catalog assets
+    4. Select a Cloud Object Storage from the list for the catalog assets.
     5. Select **Enforce data policies**, confirm the selection, and accept the defaults for the other fields.
     6. Click **Create**.
 2. Create model entry in the model inventory
@@ -61,7 +64,7 @@ Golden Bank is a leading mortgage provider through their network of neighborhood
         - View the model results.
         - Save the model.
     2. From the Cloud Pak for Data navigation menu, choose **Projects > View all projects**.
-    3. Open the **MLOps and trustworthy AI** project. 
+    3. Open the **MLOps and Trustworthy AI** project. 
     4. On the **Assets** tab, click **Source Code > Notebook**.
     5. Open the **1-model-training-with-factsheets** notebook. 
     6. Since the notebook is in read-only mode, click the **Edit** icon to place the notebook in edit mode.
@@ -74,7 +77,7 @@ Golden Bank is a leading mortgage provider through their network of neighborhood
 ## Exercise: View Model’s Factsheet
 1. View the model’s factsheet
     1. From the Cloud Pak for Data navigation menu, choose **Projects > View all projects**.
-    2. Open the **MLOps and trustworthy AI** project. 
+    2. Open the **MLOps and Trustworthy AI** project. 
     3. On the **Assets** tab, click **Models > Model**.
     4. Open **Mortgage Approval Prediction Model** that you previously created.
     5. Review the AI Factsheet for your model.
@@ -103,7 +106,7 @@ Golden Bank is a leading mortgage provider through their network of neighborhood
     3. For the Mortgage Approval Model Entry, click **View details**.
     4. Click **Asset** tab.
     5. From the model entry, under the Develop phase, click **Mortgage Approval Prediction Model**.
-    6. Click **Open in project** to open the model in the MLOps and trustworthy AI project.
+    6. Click **Open in project** to open the model in the MLOps and Trustworthy AI project.
     7. On the model page, click **Promote to deployment space**.
     8. For the Target space, select **Create a new deployment space**.
     9. For the deployment space name, enter “**Golden Bank Preproduction Space**” with no leading or trailing spaces.
