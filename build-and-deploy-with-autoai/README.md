@@ -7,11 +7,12 @@ Golden Bank is a leading mortgage provider through their network of neighborhood
 
 ## Exercise: Create AutoAI Experiment
 1. Associate machine learning service with project
-    1. From the Cloud Pak for Data navigation menu, choose **Projects > View all projects**.
-    2. Open the **MLOps and Trustworthy AI** project.
-    3. From the **Manage** tab, choose **Services & integrations**.
-    4. Click **Associate service**.
-    5. Select the machine learning service and click **Associate**.
+    1. If you haven't created required services and the sample project, go to the [previous session](../build-and-deploy-with-studio/README.md) and complete **Prepare Services** and **Create Project**.
+    2. From the Cloud Pak for Data navigation menu, choose **Projects > View all projects**.
+    3. Open the **MLOps and Trustworthy AI** project.
+    4. From the **Manage** tab, choose **Services & integrations**.
+    5. Click **Associate service**.
+    6. Select the machine learning service and click **Associate**.
 2. Create the AutoAI experiment
     1. From the **Assets** tab, click **New asset**.
     2. Click **AutoAI**.
