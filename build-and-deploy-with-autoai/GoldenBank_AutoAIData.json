@@ -1,0 +1,48 @@
+{
+	"input_data": [
+		{
+			"fields": [
+				"INCOME",
+				"YRS_AT_CURRENT_ADDRESS",
+				"YRS_WITH_CURRENT_EMPLOYER",
+				"NUMBER_OF_CARDS",
+				"CREDITCARD_DEBT",
+				"LOAN_AMOUNT",
+				"CREDIT_SCORE",
+				"PROPERTY_VALUE",
+				"AREA_AVG_PRICE",
+				"GENDER",
+				"EDUCATION",
+				"EMPLOYMENT_STATUS",
+				"MARITAL_STATUS",
+				"APPLIEDONLINE",
+				"RESIDENCE",
+				"COMMERCIAL_CLIENT",
+				"COMM_FRAUD_INV",
+				"LOANS"
+			],
+			"values": [
+				[
+					100000,
+					5,
+					10,
+					1,
+					2000,
+					40000,
+					780,
+					450000,
+					420000,
+					"Male",
+					"College",
+					"Employed",
+					"Married",
+					"YES",
+					"Private Renting",
+					"TRUE",
+					"FALSE",
+					0
+				]
+			]
+		}
+	]
+}
