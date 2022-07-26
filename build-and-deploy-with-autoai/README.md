@@ -55,7 +55,7 @@ Golden Bank is a leading mortgage provider through their network of neighborhood
 
 ## Exercise: Review Pipeline Details
 1. Review the pipeline details
-    1. Click the top ranked pipeline, Pipeline 7, with Gradient Boosting Classifier, plus hyperparameter optimization and feature engineering
+    1. Click the top ranked pipeline, Pipeline 7, with Gradient Boosting Classifier, plus hyperparameter optimization and feature engineering.
     2. Check **Model information**.
     3. Check **Feature summary**.
     4. Check **Model evaluation**.
@@ -87,7 +87,7 @@ Golden Bank is a leading mortgage provider through their network of neighborhood
     1. On the deployment space screen, click **New deployment**.
     2. For the Deployment type, select **Online**.
     3. For the Name, enter “**Mortgage Approval AutoAI Deployment**” with no leading or trailing spaces.
-    4. For the Serving Name, enter “**mortgage_approval_autoai**”, append some characters to make it unique if name is taken
+    4. For the Serving Name, enter “**mortgage_approval_autoai**”, append some characters to make it unique if name is taken.
     5. Click **Create**.
 3. Verify your screen looks like the following image.
 
@@ -99,9 +99,9 @@ Golden Bank is a leading mortgage provider through their network of neighborhood
     1. Click **Mortgage Approval AutoAI Deployment**.
     2. On the **Test** tab, click **Paste JSON**.
     3. Click **Browse local files**.
-    4. Click [**GoldenBank_AutoAIData.json**](./GoldenBank_AutoAIData.json) which you downloaded from the git repo and **Confirm**.
-    5. Click **Predict** to make a prediction request for the entry in json
-    6. It comes back with prediction of **0 and 64%** confidence
+    4. Click [**GoldenBank_AutoAIData.json**](./GoldenBank_AutoAIData.json) which you downloaded from the this repo and **Confirm**.
+    5. Click **Predict** to make a prediction request for the entry in json.
+    6. It comes back with prediction of **0 and 64%** confidence.
     7. Feel free to change some values and see if prediction results would be different.
 2. Verify your screen looks like the following image.
 

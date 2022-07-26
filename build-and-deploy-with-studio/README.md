@@ -43,9 +43,9 @@ Golden Bank is a leading mortgage provider through their network of neighborhood
     6. Click **Create**.
 2. Create model entry in the model inventory
     1. From the Cloud Pak for Data navigation menu, choose **Catalogs > Model Inventory**. 
-    2. Click **New Model Entry**
+    2. Click **New Model Entry**.
     3. Enter the model entry name as “**Mortgage Approval Model Entry**” with no leading or trailing spaces.
-    4. Click **Save**
+    4. Click **Save**.
 3. Verify your model entry looks like the following image.
 
     <img src="images/set-up-tracking.png" width="700"/>
@@ -66,10 +66,10 @@ Golden Bank is a leading mortgage provider through their network of neighborhood
     5. Open the **1-model-training-with-factsheets** notebook. 
     6. Since the notebook is in read-only mode, click the **Edit** icon to place the notebook in edit mode.
     7. Under the **Provide your IBM Cloud API key** section, you need to pass your credentials to the Watson Machine Learning API using an API key. If you don't already have a saved API key, follow the instructions in notebook to create an API key.
-    8. Update ibmcloud_api_key = ‘’ with your API key
+    8. Update ibmcloud_api_key = ‘’ with your API key.
     9. To run all the cells in the notebook, click **Cell > Run All**. Alternatively, you can run the notebook cell by cell if you want to explore each cell and its output.
     10. Take a few minutes to review the steps to build, train, verify, and save this random forest model.
-    11. You just built and saved a model “**Mortgage Approval Prediction Model**” to predict the mortgage approval (0 or 1) with probabilities
+    11. You just built and saved a model “**Mortgage Approval Prediction Model**” to predict the mortgage approval (0 or 1) with probabilities.
 
 ## Exercise: View Model’s Factsheet
 1. View the model’s factsheet
@@ -130,7 +130,7 @@ Golden Bank is a leading mortgage provider through their network of neighborhood
 
 ## Exercise: Run the model
 1. Add the test dataset to the deployment space
-    1. Download the test dataset [**GoldenBank_TestData.csv**](./GoldenBank_TestData.csv) from git repo.
+    1. Download the test dataset [**GoldenBank_TestData.csv**](./GoldenBank_TestData.csv) from this repo.
     2. From the Cloud Pak for Data navigation menu, choose **Deployments > Golden Bank Preproduction Space**.
     3. Drop or browse for the test dataset file to upload.
     4. The test dataset csv file appears in Data assets.
@@ -148,10 +148,10 @@ Golden Bank is a leading mortgage provider through their network of neighborhood
     <img src="images/run-the-model.png" width="700"/>
 
 5. Make a prediction request to the model – use json
-    1. You can use json to send a single request as well
-    2. Download the test json file [**GoldenBank_TestData.json**](./GoldenBank_TestData.json) from git repo
-    3. Drop or browse for the test json file to upload 
-    4. The test json file appears in Data assets, under **Assets** tab
+    1. You can use json to send a single request as well.
+    2. Download the test json file [**GoldenBank_TestData.json**](./GoldenBank_TestData.json) from this repo.
+    3. Drop or browse for the test json file to upload.
+    4. The test json file appears in Data assets, under **Assets** tab.
     5. Click **Deployments** tab.
     6. Click **Mortgage Approval Model Deployment**.
     7. On the **Test** tab, click **Paste JSON**.
