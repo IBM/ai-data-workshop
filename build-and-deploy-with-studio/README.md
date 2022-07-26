@@ -19,7 +19,7 @@ Golden Bank is a leading mortgage provider through their network of neighborhood
         2. Select the **Lite** plan.
         3. Click **Create**.
     8. Repeat these steps to verify or provision the following additional services
-        - **Watson Machine Learning**
+        - **Machine Learning**
         - **Watson Knowledge Catalog**
         - **Cloud Object Storage**
 2. Verify your screen looks like the following image.
@@ -68,7 +68,7 @@ Golden Bank is a leading mortgage provider through their network of neighborhood
     4. On the **Assets** tab, click **Source Code > Notebook**.
     5. Open the **1-model-training-with-factsheets** notebook. 
     6. Since the notebook is in read-only mode, click the **Edit** icon to place the notebook in edit mode.
-    7. Under the **Provide your IBM Cloud API key** section, you need to pass your credentials to the Watson Machine Learning API using an API key. If you don't already have a saved API key, follow the instructions in notebook to create an API key.
+    7. Under the **Provide your IBM Cloud API key** section, you need to pass your credentials to the Machine Learning API using an API key. If you don't already have a saved API key, follow the instructions in notebook to create an API key.
     8. Update ibmcloud_api_key = ‘’ with your API key.
     9. To run all the cells in the notebook, click **Cell > Run All**. Alternatively, you can run the notebook cell by cell if you want to explore each cell and its output.
     10. Take a few minutes to review the steps to build, train, verify, and save this random forest model.
