@@ -1,4 +1,4 @@
-# Build and deploy a Machine Learning Model using Watson Studio Notebook
+# Build, Deploy, and Run a Machine Learning Model using Watson Studio Notebook
 
 ## Tutorial Scenario
 Golden Bank is a leading mortgage provider through their network of neighborhood branches. This tutorial cover these goals:
