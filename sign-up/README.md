@@ -33,6 +33,7 @@ services and should not be a corporate email like `*@ibm.com`.
      - "**WatsonMachineLearning**"
      - "**WatsonOpenScale**"
      - "**WatsonStudio**"
+ 
      Compare to the screenshot below:
      <img src="images/service-instances.png" width="700"/>
 
