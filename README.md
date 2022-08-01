@@ -1,12 +1,19 @@
-# ai-data-workshop
+# AI and Data Workshop
 Workshop for Data and AI Sessions
 
-### Watson Data Workshop
+## Sign up
+
+Before starting with the workshop, follow [these instructions](sign-up/README.md)
+to sign up for a free Cloud Pak for Data account.
+
+## Watson Data Workshop
+
 |Topic|Presenter|Contents|
 |---|---|---|
 |Multicloud data integration using DataStage|Prashant|[Slides](DATASTAGE_WS.pdf) <br>[DataStage Flow Instructions](https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/df_data_integrate.html?context=cpdaas&audience=wdp) <br>[DataStage Flow Demo Video](https://video.ibm.com/channel/23952663/video/df-data-integrate)|
 
-### Watson AI Workshop
+## Watson AI Workshop
+
 |Topic|Presenter|Contents|
 |---|---|---|
 |Machine Learning Lifecycle Introduction|Animesh|[Powerpoint slides]()|
