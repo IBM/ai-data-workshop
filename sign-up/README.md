@@ -12,7 +12,7 @@ services and should not be a corporate email like `*@ibm.com`.
  2. Click on "[Try it free](https://dataplatform.cloud.ibm.com/registration/stepone?context=cpdaas&apps=all)" which will open a new page 
  3. Under "**Select a region**" select "**Dallas**"
 
-    <img src="images/select-region-dallas.png" width="700"/>
+    <img src="images/select-region-dallas.png" width="600"/>
 
  4. In the bottom right corner, select the "I agree to the terms ..." check box and 
     click "**Create an IBM Cloud account**"
@@ -23,7 +23,7 @@ services and should not be a corporate email like `*@ibm.com`.
  8. Wait while your account is being created
  9. On the page to Verify your identity, click on "**Register with a code**"
 
-    <img src="images/register-with-a-code.png" width="700"/>
+    <img src="images/register-with-a-code.png" width="400"/>
 
  10. Enter your promo code and click on "Create account"
  11. Wait while your services are being provisioned 
