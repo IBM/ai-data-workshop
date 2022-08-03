@@ -16,7 +16,7 @@ to sign up for a free Cloud Pak for Data account.
 
 |Topic|Presenter|Contents|
 |---|---|---|
-|Machine Learning Lifecycle Introduction|Animesh|[Powerpoint slides]()|
+|Machine Learning Lifecycle Introduction|Animesh|[Slides]()|
 |Build, Deploy, and Run a Machine Learning Model using Watson Studio Notebook|Christian|[Slides](/build-and-deploy-with-studio/ai-workshop-build-deploy-studio.pdf) <br>[Notebook Instructions](build-and-deploy-with-studio/README.md)|
 |Build, Deploy and Run a Machine Learning Model with AutoAI|Jim|[Slides](/build-and-deploy-with-autoai/ai-workshop-build-deploy-autoai.pdf) <br>[AutoAI instructions](/build-and-deploy-with-autoai/README.md) <br>[AutoAI Demo Video]()|
 |Automate the Machine Learning Lifecycle|Tommy|[Slides](/watson-studio-pipelines/watson-studio-pipelines.pdf) <br>[Pipeline Instructions](/watson-studio-pipelines/README.md) <br>[Pipeline Demo Video](https://ibm.ent.box.com/file/988330608311)|
