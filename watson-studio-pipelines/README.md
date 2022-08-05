@@ -24,7 +24,7 @@
 
     6.1. First change the data source of **Create data file** to `GoldenBank_HoldoutData.csv`
 
-    6.2. Update the **Create AutoAI experiment** to predict on the column `LOANS` with positive label as `1` for the new golden bank dataset.
+    6.2. Update the **Create AutoAI experiment** to predict on the column `MORTGAGE_APPROVAL` with positive label as `1` for the new golden bank dataset.
 
     6.3. Update the **Create web service** to store the deployed model as `bank-mortgage-prediction-deployment` to distinguish this model in the deployment space. 
     
