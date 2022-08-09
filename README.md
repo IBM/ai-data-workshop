@@ -12,7 +12,7 @@ to sign up for a free Cloud Pak for Data account.
 |---|---|---|
 |Data Lifecycle|Lena Woolf|[Slides]() + Demos
 |Data Virtualization|Lena Woolf|[Slides]() + Demos
-|Data Governance|Nigel Jones, David Radley|Instructions coming soon
+|Data Governance|Nigel Jones, David Radley, Sepideh Seifzadeh|[Workshop](https://github.com/IBM/ai-data-workshop/blob/main/Data%20Fabric%20for%20Gov%20and%20Privacy--Trust%20Your%20Data%20tutorial%20final.docx)
 |Data Transformation|Prashant|[Slides](/data-integration-with-datastage/DATASTAGE_WS.pdf) <br>[DataStage Flow Instructions](https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/df_data_integrate.html?context=cpdaas&audience=wdp) <br>[DataStage Flow Demo Video](https://video.ibm.com/channel/23952663/video/df-data-integrate)|
 
 ## AI Workshop
