@@ -18,10 +18,6 @@ Golden Bank is a leading mortgage provider through their network of neighborhood
         1. Select **Dallas** as the region.
         2. Select the **Lite** plan.
         3. Click **Create**.
-    8. Repeat these steps to verify or provision the following additional services
-        - **Watson OpenScale**
-        - **Watson Knowledge Catalog**
-        - **Cloud Object Storage**
 2. Verify you have the Watson-OpenScale-xx service instance like the image.
 
     <img src="images/prepare-openscale-service.png" width="700"/>
