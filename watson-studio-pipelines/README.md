@@ -22,11 +22,11 @@
 
     4.4. Double click on the **Create data file**, click **Select file** and pick any file you want inside your project. Then click on the icon next to **Target Scope** and pick **Select from another node**. Then pick **Create Deployment Space** in the new drop down menus.
     
-    <img src="images/demo-pipeline-hands-on.gif" width="600"/>
+    <img src="images/construct-pipeline.gif" width="600"/>
 
 5. To run the pipeline, click Run, and select Trial run. Then, the pipeline will create a new deployment space for you can upload the project dataset to the same deployment space.
 
-    <img src="images/demo-pipeline-hands-on.gif" width="600"/>
+    <img src="images/pipeline-run.gif" width="600"/>
 
 6. After the pipeline is finished, you can go to the deployments page and look at the model deployment details. Click the upper left to open the side menus and select **Deployments**.
     
