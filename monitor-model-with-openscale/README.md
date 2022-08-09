@@ -28,7 +28,7 @@ Golden Bank is a leading mortgage provider through their network of neighborhood
 
 
 ## Exercise: Create Project
-1. Create the sample project for the exercise
+1. If you have not created the project create the sample project for the exercise.
     1. Login to IBM Cloud and access the [MLOps and Trustworthy AI guided tutorial sample project](https://dataplatform.cloud.ibm.com/exchange/public/entry/view/48e9f342365736c7bb7a8dfc48e6245e?context=cpdaas) in the gallery.
     2. Click **Create project**.
     3. Take the default name and select a Cloud Object Storage instance from the list.
@@ -42,7 +42,7 @@ Golden Bank is a leading mortgage provider through their network of neighborhood
 
 1. Make sure you have trained, deployed, and Promoted a model into a Deployment space. This exercise assumed you have completed the [build and deploy with autoai](../build-and-deploy-with-autoai/README.md) or the [build and deploy with watson studio](../build-and-deploy-with-studio/README.md) tutorial.
 
-2. Locate the `monitor-wml-model-with-watson-openscale` Notebook under `Source Code` in the the `MLOps and Trustworthy AI` you have created in the previous exercise under the `Assets` tab.
+2. Locate the `monitor-wml-model-with-watson-openscale` Notebook under `Source Code` in the the `MLOps and Trustworthy AI` project that you have created in the previous exercise under the `Assets` tab.
 
     <img src="images/open-notebook-example.png" width="700"/>
 
@@ -54,17 +54,30 @@ Golden Bank is a leading mortgage provider through their network of neighborhood
 
     <img src="images/gen-api-key.gif" width="700"/>
 
-    Note: You may need to change the following variables in the Notebook.
+    Note: You may need to change the following variables in the Notebook if you have not named the deployment as instructed in the [build and deploy with watson studio](../build-and-deploy-with-studio/README.md) tutorial.
 
     <img src="images/edit-notebook-var1.png" width="700"/>
 
 
-4. Run each cell in the Notebook using `shift-enter` to the end to create the monitor.
+4. Create the monitor using the Notebook:
+   a. Select Cell > Run all and wait for all the cells to finish running without error.
 
-5. Open the OpenScale [Dashboard](https://aiopenscale.cloud.ibm.com/aiopenscale/insights) and Open the monitor.
+   b. Shutdown the Notebook instance. File > Stop kernel.
+
+5. Open the OpenScale [Dashboard](https://aiopenscale.cloud.ibm.com/aiopenscale/insights) and verify you have something like:
 
     <img src="images/openscale-dashboard.png" width="400"/>
 
-6. Run the hold-out data in the monitor.
 
-    <img src="images/holdout_data_evaluate.gif" width="700"/>
+6. Go the `MLOps and Trustworthy AI` project and download the `GoldenBank_HoldoutData.csv` under the Assets tab and Data assets.
+
+    <img src="images/download-holdout-data.png" width="700"/>
+
+
+7. On the [Dashboard](https://aiopenscale.cloud.ibm.com/aiopenscale/insights), click on the cell to display the monitor. Click on Action > Evaluate Now > Choose the option `from CSV` in the drop down menu to browse the holdout data you have downloaded in the previous step. Click `Upload and evaluate`.
+
+    <img src="images/holdout-data-evaluate.gif" width="700"/>
+
+8. Wait for the evaluation to complete and verify you have something like:
+
+    <img src="images/fairness-dashboard.png" width="700"/>
