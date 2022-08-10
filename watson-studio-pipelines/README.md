@@ -30,7 +30,7 @@
 
 6. After the pipeline is finished, you can go to the deployments page and look at the model deployment details. Click the upper left to open the side menus and select **Deployments**.
     
-    <img src="images/go-to-deployment.png" width="600"/>
+    <img src="images/hands-on-deployment.png" width="600"/>
 
 7. Click the **Spaces** tab, and select the space where your dataset is uploaded to.
     
