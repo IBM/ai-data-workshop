@@ -19,8 +19,8 @@ to sign up for a free Cloud Pak for Data account.
 
 |Topic|Presenter|Contents|
 |---|---|---|
-|Machine Learning Lifecycle Introduction|Animesh|[Slides]()|
+|Machine Learning Lifecycle Introduction|Animesh|[Slides]() (Upcoming) |
 |Build, Deploy, and Run a Machine Learning Model (using Watson Studio)|Christian|[Overview Slides](/build-and-deploy-with-studio/ai-workshop-build-deploy-studio.pdf)<br>[Step-by-Step Instructions](build-and-deploy-with-studio/README.md)<br>[Demo Video](https://video.ibm.com/recorded/131493070)|
-|Build, Deploy and Run a Machine Learning Model (using AutoAI)|Jim|[Slides](/build-and-deploy-with-autoai/ai-workshop-build-deploy-autoai.pdf) <br>[AutoAI instructions](/build-and-deploy-with-autoai/README.md) <br>[AutoAI Demo Video]()|
-|Automate the Machine Learning Lifecycle|Tommy|[Slides](/watson-studio-pipelines/watson-studio-pipelines.pdf) <br>[Pipeline Instructions](/watson-studio-pipelines/README.md) <br>[Pipeline Demo Video](https://ibm.ent.box.com/file/988330608311)|
-|Monitor a model for quality and fairness|Ted and Yi-Hong|[Slides]() <br>[Notebook Instructions](/monitor-model-with-openscale) <br>[OpenScale Demo Video](https://ibm.ent.box.com/file/995675234686)|
+|Build, Deploy and Run a Machine Learning Model (using AutoAI)|Jim|[Slides](/build-and-deploy-with-autoai/ai-workshop-build-deploy-autoai.pdf) <br>[AutoAI instructions](/build-and-deploy-with-autoai/README.md) <br>[AutoAI Demo Video]() (Upcoming)|
+|Automate the Machine Learning Lifecycle|Tommy|[Slides](/watson-studio-pipelines/watson-studio-pipelines.pdf) <br>[Pipeline Instructions](/watson-studio-pipelines/README.md) <br>[Pipeline Demo Video](https://ibm.ent.box.com/file/988330608311) (Upcoming)|
+|Monitor a model for quality and fairness|Ted and Yi-Hong|[Slides]() (Upcoming) <br>[Notebook Instructions](/monitor-model-with-openscale) <br>[OpenScale Demo Video](https://ibm.ent.box.com/file/995675234686) (Upcoming)|
