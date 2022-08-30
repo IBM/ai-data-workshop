@@ -18,5 +18,5 @@ The goal of this tutorial is to introduce the basic functionality of AI Fairness
     ```
 
     <img src="/monitor-model-with-openscale/images/aif360-notebook-upload.png" width="700"/>
-
-7. Run all the cell in this notebook
+7. Assign a name to the notebook. For example: `aif360-notebook` and click `Create` button
+8. Run all the cell in this notebook
