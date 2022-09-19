@@ -6,7 +6,7 @@ Workshop for Data and AI Sessions
 Before starting with the workshop, follow [these instructions](sign-up/README.md)
 to sign up for a free Cloud Pak for Data account.
 
-## Data Workshop
+## Data Lifecycle Workshop
 
 |Topic|Presenter|Contents|
 |---|---|---|
@@ -14,7 +14,7 @@ to sign up for a free Cloud Pak for Data account.
 |Data Governance|Nigel Jones, David Radley, Sepideh Seifzadeh|[Workshop](https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/df_gov_trust.html?context=cpdaas&audience=wdp) <br>[Slides](data-governance-lab/DataAndGovernanceLab.pdf)|
 |Data Transformation|Prashant|[Slides](/data-integration-with-datastage/DATASTAGE_WS.pdf) <br>[DataStage Flow Instructions](https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/df_data_integrate.html?context=cpdaas&audience=wdp) <br>[DataStage Flow Demo Video](https://video.ibm.com/channel/23952663/video/df-data-integrate)|
 
-## AI Workshop
+## AI Lifecycle Workshop
 
 |Topic|Presenter|Contents|
 |---|---|---|
