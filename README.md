@@ -8,11 +8,11 @@ to sign up for a free Cloud Pak for Data account.
 
 ## Data Lifecycle Workshop
 
-|Topic|Presenter|Contents|
-|---|---|---|
-|Data Lifecycle including Data Virtualization|Lena Woolf|[Slides](data-governance-lab/ADP_workshop_data_lifecycle.pdf) + Demos
-|Data Governance|Nigel Jones, David Radley, Sepideh Seifzadeh|[Workshop](https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/df_gov_trust.html?context=cpdaas&audience=wdp) <br>[Slides](data-governance-lab/DataAndGovernanceLab.pdf)|
-|Data Transformation|Prashant|[Slides](/data-integration-with-datastage/DATASTAGE_WS.pdf) <br>[DataStage Flow Instructions](https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/df_data_integrate.html?context=cpdaas&audience=wdp) <br>[DataStage Flow Demo Video](https://video.ibm.com/channel/23952663/video/df-data-integrate)|
+| Topic                            | Presenter    | Contents                                                                                                                                                                                                                                                                                                             |
+|----------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Data Lifecycle                   | David Radley | Video provided prior to workshop                                                                                                                                                                                                                                                                                     
+| Data Governance & Virtualization | Nigel Jones  | - [Trust your data](https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/df_gov_trust.html?context=cpdaas&audience=wdp)<br>- [Virtualize External Data](https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/df_data_virtualize.html?context=cpdaas&audience=wdp)            |
+| Data Transformation              | Prashant     | [Slides](/data-integration-with-datastage/DATASTAGE_WS.pdf) <br>[DataStage Flow Instructions](https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/df_data_integrate.html?context=cpdaas&audience=wdp) <br>[DataStage Flow Demo Video](https://video.ibm.com/channel/23952663/video/df-data-integrate) |
 
 ## AI Lifecycle Workshop
 
